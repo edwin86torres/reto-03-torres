@@ -2,7 +2,7 @@
 
 Agente que lee el paquete de una solicitud de compra, lo valida contra los maestros (RC1–RC10), construye la OC tal como quedaría en SAP, genera la evidencia de aprobación con SHA-256 y crea la OC en un SAP simulado. Las excepciones requieren confirmación humana explícita.
 
-- **Link de prueba:** `<pegar aquí la URL de Render>`
+- **Link de prueba:** https://reto-03-torres.onrender.com
 - **Clave de acceso:** no aplica (link público). Si se define `ACCESS_KEY`, abrir como `https://<host>/?key=<valor>`.
 
 ## Requisitos
